@@ -5,9 +5,9 @@
 #git init
 git branch -M main
 git add .
-git commit -m "nodejs_commit"
-git remote add origin https://github.com/Aolajre/bash_scripting.git
-git push -uf origin main
+git commit -m "scripting_commit"
+git remote add originn https://github.com/Aolajre/bash_scripting.git
+git push -uf originn main
 #Output from config 
 git status
 git remote -v
